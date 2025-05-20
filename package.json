@@ -1,0 +1,25 @@
+{
+  "name": "book_shelf_bend",
+  "version": "1.0.0",
+  "description": "backend for the bookshelf",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaurabhForks/book_shelf_bend.git"
+  },
+  "author": "saurabhForks",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaurabhForks/book_shelf_bend/issues"
+  },
+  "homepage": "https://github.com/SaurabhForks/book_shelf_bend#readme",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "graphql": "^16.11.0",
+    "lodash": "^4.17.21"
+  }
+}
